@@ -4,7 +4,7 @@
 This is a simple dice application built using Tkinter in Python. The application provides a graphical user interface to simulate rolling a dice.
 
 ## Features
-- Simulate rolling a standard six-sided dice.
+- Simulate rolling a standard six-sided dice, d4, d8, d10, d12, d20.
 - User-friendly graphical interface.
 
 ## Technologies Used
@@ -17,10 +17,10 @@ This is a simple dice application built using Tkinter in Python. The application
 3. Run the application using the following command:
 
 ```bash
-python your_file_name.py
+python dice.py
 ```
 
-Replace your_file_name.py with the name of the file where you've placed your code.
+Replace dice.py with the name of the file where you've placed your code.
 
 ## Project Status
 
